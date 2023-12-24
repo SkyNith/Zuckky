@@ -1,0 +1,2 @@
+# Zuckky
+Music Bot Discord
